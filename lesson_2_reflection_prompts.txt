@@ -28,3 +28,8 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+  When using auto-merging, you can save lots of time and take advantage of text
+  comparison. However, it won't know what to do if two branches dealt with the
+  same parent item differently (i.e., both changed the same thing, but did so
+  differently). If two unique changes were made to one item, you'll have to resolve
+  that yourself.
