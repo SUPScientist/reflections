@@ -18,6 +18,8 @@ organized? How would branches help?
   version that you already have (experimental features, for example)
 
 How do the diagrams help you visualize the branch structure?
+  You can see the (non)linearity of different changes that you want to make and
+  how they relate to each other.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
