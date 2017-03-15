@@ -24,12 +24,15 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     You can fetch changes from GH without necessarily merging them immediately
-    into master. 
+    into master.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    We'd just files back and forth, maybe use Dropbox or Google Drive...
+    It would be easier to know when someone did something they wanted me to know about
+    but it would be hard to know what the changes were and we wouldn't have access
+    to the old versions unless we deliberately "saved-as" every time.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
