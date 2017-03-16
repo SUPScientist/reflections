@@ -37,4 +37,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you're working on a different feature and/or working with other collaborators
+    and you don't want to make updates to the master without other people having
+    a chance to see what you did and perhaps someone else merging your pull request.
+    You can't do a PR if you're updating master but you can if you're working
+    on a branch.
